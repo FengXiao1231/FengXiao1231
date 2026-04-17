@@ -46,14 +46,6 @@ focus: Building reliable and elegant applications
 
 ---
 
-### Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FengXiao1231&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophy" />
-</p>
-
----
-
 ### Contribution Snake
 
 <picture>

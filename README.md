@@ -36,7 +36,7 @@ focus: Building reliable and elegant applications
 ### GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-lime-45.vercel.app/api?username=FengXiao1231&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-lime-45.vercel.app/api?username=FengXiao1231&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats-eight-lime-45.vercel.app/api/top-langs/?username=FengXiao1231&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </p>
 

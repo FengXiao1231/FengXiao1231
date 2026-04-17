@@ -40,10 +40,6 @@ focus: Building reliable and elegant applications
   <img width="49%" src="https://github-readme-stats-eight-lime-45.vercel.app/api/top-langs/?username=FengXiao1231&layout=compact&count_private=true&include_forks=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=FengXiao1231&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=06b6d4&fire=f97316&currStreakLabel=06b6d4&sideLabels=6366f1&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### Contribution Snake

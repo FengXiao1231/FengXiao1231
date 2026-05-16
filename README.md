@@ -11,10 +11,11 @@
 ### About Me
 
 ```yaml
-name: Fengxiao
+name: Ziming Zhang
 role: Full Stack Developer
 code: [Java, Python, JavaScript]
 focus: Building reliable and elegant applications
+organization: Georgia Tech Open Source Programming Office
 ```
 
 - :telescope: Currently working on full stack projects

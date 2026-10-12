@@ -14,86 +14,45 @@
 
 ---
 
-## 🙋 About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
+<h2 align="center">🙋 About Me</h2>
 
 ```python
 class ZimingZhang:
-    role = "Full Stack Developer"
-    org = "Georgia Tech Open Source Programming Office"
-    languages = ["Python", "TypeScript", "Java", "JavaScript"]
-    interests = [
-        "Deep learning (CV & facial expression recognition)",
-        "Conformal prediction / uncertainty quantification",
-        "Quant trading & prediction markets",
-        "AIGC tools & local-first apps",
-    ]
-
-    def motto(self):
-        return "Code is poetry ✨"
+    role      = "Full Stack Developer"
+    org       = "Georgia Tech OSPO"
+    languages = ["Python", "TypeScript", "Java"]
+    interests = ["Deep Learning", "Uncertainty Quantification",
+                 "Quant Trading", "AIGC Tools"]
+    motto     = "Code is poetry ✨"
 ```
 
-</td>
-<td width="45%" valign="top">
-
-**🔭 What I build**
-
-- 🌐 **Web apps** with React / Next.js and Spring Boot
-- 🧠 **ML research** projects in PyTorch, from course work to experiments
-- 📈 **Trading bots & market analytics** in Python
-- 🎬 **AIGC & video tooling**, local first
-
-**🌱 Right now**
-
-- Exploring LLM agents and AI powered products
-- Always learning new frameworks and tools
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<table align="center">
-<tr>
-  <td align="center"><b>Languages</b></td>
-  <td><img src="https://skillicons.dev/icons?i=py,ts,js,java&theme=dark" alt="Languages" /></td>
-</tr>
-<tr>
-  <td align="center"><b>Frontend</b></td>
-  <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" alt="Frontend" /></td>
-</tr>
-<tr>
-  <td align="center"><b>Backend</b></td>
-  <td><img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,mysql,postgres&theme=dark" alt="Backend" /></td>
-</tr>
-<tr>
-  <td align="center"><b>AI / Data</b></td>
-  <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="AI / Data" /></td>
-</tr>
-<tr>
-  <td align="center"><b>DevOps & Tools</b></td>
-  <td><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vercel,vscode,idea&theme=dark" alt="DevOps & Tools" /></td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-lime-45.vercel.app/api?username=FengXiao1231&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-eight-lime-45.vercel.app/api/top-langs/?username=FengXiao1231&layout=compact&count_private=true&include_forks=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  🌐 <b>Web apps</b> with React, Next.js and Spring Boot<br/>
+  🧠 <b>ML research</b> in PyTorch, from course work to experiments<br/>
+  📈 <b>Trading bots and market analytics</b> in Python<br/>
+  🎬 <b>AIGC and video tooling</b>, local first
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,react,nextjs,vue,tailwind,spring,nodejs,fastapi,mysql,postgres,pytorch,sklearn,docker,git,githubactions,linux,vercel&theme=dark&perline=10" alt="Tech Stack" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-lime-45.vercel.app/api?username=FengXiao1231&show_icons=true&count_private=true&card_width=495&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-lime-45.vercel.app/api/top-langs/?username=FengXiao1231&layout=compact&count_private=true&include_forks=true&card_width=495&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 <picture>
